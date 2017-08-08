@@ -1,2 +1,2 @@
 # Kafka
-kafka POC
+kafka code for Oracle compatibility
